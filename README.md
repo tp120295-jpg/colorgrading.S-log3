@@ -71,4 +71,4 @@ slog3grade/              code: colorgrade (luồng chính), autograde (tự cân
 - `color-matcher` (đồng bộ màu, tuỳ chọn) dùng giấy phép **GPL-3.0**; repo này không chứa code của nó, chỉ cài qua pip khi cần.
 - `open-clip-torch`, `torch`, `numpy`, `pillow`: cài qua pip theo giấy phép của từng gói. Trọng số CLIP `ViT-B-32 laion2b_s34b_b79k` tự tải lần đầu.
 - Bộ LUT trong `luts/` là LookProfile của Sony, bản quyền thuộc Sony.
-- Mã nguồn của repo này: giấy phép **MIT**, © 2026 D.U.M.A Studio (xem file `LICENSE`).
+- Mã nguồn của repo này (thư mục `slog3grade/`, `scripts/` và các file hướng dẫn): giấy phép **MIT**, © 2026 D.U.M.A Studio (xem file `LICENSE`). Bộ LUT trong `luts/` không thuộc giấy phép này.
