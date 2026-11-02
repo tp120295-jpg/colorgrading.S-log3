@@ -1,0 +1,12 @@
+{
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "temp_root": "",
+  "colorgrade": {
+    "lut": "luts/SonyLookProfiles_SLog3_SGamut3Cine/2_SGamut3CineSLog3_To_LC-709TypeA.cube",
+    "look": "LC-709TypeA",
+    "default_gamut": "cine",
+    "auto": true,
+    "rotate": "auto"
+  }
+}

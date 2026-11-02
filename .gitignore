@@ -1,0 +1,5 @@
+# cấu hình riêng của từng máy (đường dẫn LUT...)
+config.json
+.venv/
+__pycache__/
+*.pyc

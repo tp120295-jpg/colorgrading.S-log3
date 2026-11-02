@@ -1,0 +1,7 @@
+# tuỳ chọn: tự đoán chiều xoay (mô hình CLIP chạy offline, tải ~vài trăm MB lần đầu; torch nặng vài GB)
+# máy có GPU NVIDIA nên cài torch bản CUDA theo hướng dẫn ở https://pytorch.org
+torch
+open-clip-torch
+pillow
+# tuỳ chọn: đồng bộ màu giữa các clip (--match). Giấy phép GPL-3.0
+color-matcher
